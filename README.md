@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 <!-- - 🔭 I’m currently working on ... --> 
-- 🌱 I’m currently learning FastAPI 
+- 🌱 I’m currently learning FastAPI | Django
 <!-- - 👯 I’m looking to collaborate on ... --> 
 <!-- - 🤔 I’m looking for help with ... --> 
 <!-- - 💬 Ask me about ... --> 
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-092E20?logo=django&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
